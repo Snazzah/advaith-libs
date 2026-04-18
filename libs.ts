@@ -1027,7 +1027,7 @@ export const libs: Lib[] = [
 		language: 'JavaScript',
 		apiVer: 10,
 		gwVer: 10,
-		voiceVer: 8,
+		voiceVer: 'E2EE',
 		slashCommands: 'Yes',
 		buttons: 'Yes',
 		selectMenus: 'Yes',
